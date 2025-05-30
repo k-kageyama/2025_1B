@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 //尾崎コンフリクト
 //branch_マージ
-=======
-兼房conflictテスト
->>>>>>> branch_kanefusa
